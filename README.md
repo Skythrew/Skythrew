@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 ### Who am I ?
 I'm a French student in high school and fond of IT. I love programming, tinkering my OS (yes I use Linux). But I also love playing saxophone! 🎷
-
-🌱 I’m currently learning C...
